@@ -1,0 +1,10 @@
+*.6
+*.out
+misc/
+bench/
+redis/
+godis
+_test*
+_obj
+*.8
+*.DBF
